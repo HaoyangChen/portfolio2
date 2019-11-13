@@ -8,17 +8,20 @@
     text-transform: uppercase;
     color: white;
     border: 0;
-    background-color: $primary;
+    // background-color: $primary;
+    background-color: #fed136;
     @include heading-font;
   }
   .navbar-brand {
-    color: $primary;
+    // color: $primary;
+    color: #fff;
     @include script-font;
     &.active,
     &:active,
     &:focus,
     &:hover {
-      color: darken($primary, 10%);
+      // color: darken($primary, 10%);
+      color: darken(#fff, 20%);
     }
   }
   .navbar-nav {
@@ -32,7 +35,8 @@
         @include heading-font;
         &.active,
         &:hover {
-          color: $primary;
+          // color: $primary;
+          color: #fed136;
         }
       }
     }
