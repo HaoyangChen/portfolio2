@@ -1,10 +1,8 @@
-## Usage
+## Haoyang Chen's Portfolio
 
-### Basic Usage
+Welcome to my portfolio! I am a junior graduating in June, 2021 with a B.S in Informatics and a focus on Information Architecture at the University of Washington. This portfolio used Gulp based development environment with a watch task and is built using SASS and Bootstrap framework. 
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-
-### Advanced Usage
+### Usage
 
 After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
