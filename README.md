@@ -5,7 +5,7 @@ You can visit the live site by clicking [here](https://haoyangchen.github.io/por
 
 #### Usage
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+Run `npm start` after installing all dependencies to live view on your local machine.
 
 #### Gulp Tasks
 
@@ -19,4 +19,4 @@ You must have npm installed globally in order to use this build environment.
 
 #### Copyright and License
 
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+Copyright 2019 Haoyang Chen released under the [MIT](https://github.com/HaoyangChen/portfolio/blob/master/LICENSE) license.
