@@ -1,6 +1,6 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
+    "title": "Portfolio",
+    "name": "haoyangchen-portfolio",
     "version": "5.2.2",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
@@ -14,19 +14,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/agency",
+    "homepage": "https://haoyangchen.github.io/portfolio/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://haoyangchen.github.io/portfolio/",
+        "email": "haoyac2@uw.edu"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Haoyang Chen, Start Bootstrap",
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+        "url": "https://github.com/HaoyangChen/portfolio"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
