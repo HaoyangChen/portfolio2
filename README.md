@@ -1,6 +1,6 @@
 ## Haoyang Chen's Portfolio
 
-Welcome to my portfolio! I am a junior graduating in June, 2021 with a B.S in Informatics and a focus on Information Architecture at the University of Washington. This portfolio used Gulp based development environment with a watch task and was built using SASS and Bootstrap framework. 
+Welcome to my portfolio! I am a junior graduating in June, 2021 with a B.S in Informatics and a focus on Software Development at the University of Washington. This portfolio used Gulp based development environment with a watch task and was built using SASS and Bootstrap framework. 
 You can visit the live site by clicking [here](https://haoyangchen.github.io/portfolio/) or copy this link https://haoyangchen.github.io/portfolio/ and open it in a browser. 
 
 #### Usage
